@@ -5,4 +5,4 @@
 </p>
 
 <h2>פרויקטים מוכנים</h2>
-<h5><a href ="https://github.com/avivper/PDF-Creator">PDF-Creator</a></h5>
+<h5><a href ="https://github.com/avivper/PDF-Creator">PDF Creator</a></h5>
